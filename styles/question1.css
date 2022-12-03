@@ -1,0 +1,59 @@
+.container {
+  padding: 5% 5%;
+  /* Used to center the section */
+  max-width: 1500px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.answer {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+}
+
+.answer-text {
+  text-align: center;
+}
+
+.answer-text p {
+  margin-top: 20px;
+}
+
+/* options */
+.options {
+  margin-top: 20px;
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+  flex-wrap: wrap;
+}
+
+.option {
+  max-width: 250px;
+  border-radius: 10px;
+  color: white;
+  padding: 20px;
+  text-align: center;
+  background-color: var(--blumine);
+  font-size: var(--font-size-m);
+  font-family: var(--font-family-poppins);
+}
+
+.option p {
+  margin-top: 10px;
+}
+
+.photooptions {
+  margin-top: 10px;
+  margin-right: 10px;
+  margin-left: 10px;
+  display: flex;
+ justify-content: center;
+  gap: 20px;
+  flex-wrap: wrap;
+}
+
+
+.photo {
+}

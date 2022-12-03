@@ -1,0 +1,255 @@
+/* screen - landing-page */
+
+.landing-page {
+  align-items: flex-end;
+  background-color: var(--mine-shaft);
+  border: 1px none;
+  display: flex;
+  flex-direction: column;
+  height: 832px;
+  overflow: hidden;
+  width: 1280px;
+}
+
+.landing-page .flex-row {
+  align-items: flex-start;
+  align-self: center;
+  display: flex;
+  height: 111px;
+  margin-left: 65.0px;
+  margin-top: 34px;
+  min-width: 1127px;
+}
+
+.landing-page .overlap-group-container {
+  height: 60px;
+  margin-top: 4px;
+  position: relative;
+  width: 71px;
+}
+
+.landing-page .logo-container {
+  height: 60px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 71px;
+}
+
+.landing-page .logo {
+  height: 60px;
+  left: 2px;
+  position: absolute;
+  top: 0;
+  width: 60px;
+}
+
+.landing-page .logo-1 {
+  align-items: flex-start;
+  border: 1px none;
+  display: flex;
+  height: 30px;
+  left: 0;
+  padding: 0 5px;
+  position: absolute;
+  top: 13px;
+  width: 71px;
+}
+
+.landing-page .line-container {
+  height: 30px;
+  position: relative;
+  width: 55px;
+}
+
+.landing-page .line-1 {
+  height: 20px;
+  left: 0;
+  position: absolute;
+  top: 10px;
+  width: 11px;
+}
+
+.landing-page .line-8 {
+  height: 20px;
+  left: 44px;
+  position: absolute;
+  top: 10px;
+  width: 11px;
+}
+
+.landing-page .line-2 {
+  height: 20px;
+  left: 6px;
+  position: absolute;
+  top: 10px;
+  width: 11px;
+}
+
+.landing-page .line-7 {
+  height: 20px;
+  left: 38px;
+  position: absolute;
+  top: 10px;
+  width: 11px;
+}
+
+.landing-page .line-3 {
+  height: 25px;
+  left: 12px;
+  position: absolute;
+  top: 5px;
+  width: 11px;
+}
+
+.landing-page .line-6 {
+  height: 25px;
+  left: 32px;
+  position: absolute;
+  top: 5px;
+  width: 11px;
+}
+
+.landing-page .line-4 {
+  height: 30px;
+  left: 18px;
+  position: absolute;
+  top: 0;
+  width: 11px;
+}
+
+.landing-page .line-5 {
+  height: 30px;
+  left: 25px;
+  position: absolute;
+  top: 0;
+  width: 11px;
+}
+
+.landing-page .find-your-new-groove {
+  align-self: flex-end;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: 5px;
+  min-height: 99px;
+  width: 248px;
+}
+
+.landing-page .overlap-group6 {
+  height: 99px;
+  margin-left: 433px;
+  position: relative;
+  width: 370px;
+}
+
+.landing-page .about-us {
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+  width: 184px;
+}
+
+.landing-page .playlists {
+  left: 109px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+  width: 152px;
+}
+
+.landing-page .support {
+  left: 218px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+  width: 152px;
+}
+
+.landing-page .overlap-group4 {
+  height: 601px;
+  margin-right: -109px;
+  margin-top: 83px;
+  position: relative;
+  width: 1314px;
+}
+
+.landing-page .alireza-attari-sb-ia {
+  height: 599px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 2px;
+  width: 555px;
+}
+
+.landing-page .find-your-new-groove-1 {
+  -webkit-text-stroke: 1px var(--black);
+  left: 466px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-shadow: 0px 4px 4px #00000040;
+  top: 0;
+  width: 848px;
+}
+
+.landing-page .match-you-with-a-pla {
+  left: 467px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 87px;
+  width: 682px;
+}
+
+.landing-page .button {
+  align-items: flex-start;
+  cursor: pointer;
+  display: flex;
+  height: 114px;
+  left: 458px;
+  min-width: 306px;
+  position: absolute;
+  top: 168px;
+}
+
+.landing-page .overlap-group2 {
+  height: 114px;
+  position: relative;
+  width: 304px;
+}
+
+.landing-page .rectangle-1 {
+  background-color: var(--blumine);
+  border: 1px none;
+  border-radius: 10px;
+  height: 109px;
+  left: 2px;
+  position: absolute;
+  top: 5px;
+  width: 302px;
+}
+
+.landing-page .try-now {
+  height: 114px;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  width: 304px;
+}
+
+.landing-page .cm523-at-boston-university-2022 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-right: -220px;
+  margin-top: 196px;
+  min-height: 107px;
+  width: 848px;
+}

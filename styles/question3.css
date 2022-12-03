@@ -1,0 +1,321 @@
+/* screen - question3 */
+
+.question3 {
+  align-items: flex-end;
+  background-color: var(--mine-shaft);
+  border: 1px none;
+  display: flex;
+  flex-direction: column;
+  height: 832px;
+  overflow: hidden;
+  width: 1280px;
+}
+
+.question3 .flex-row {
+  align-items: flex-start;
+  align-self: center;
+  display: flex;
+  height: 108px;
+  margin-left: 66.0px;
+  margin-top: 37px;
+  min-width: 1128px;
+}
+
+.question3 .overlap-group-container {
+  height: 60px;
+  margin-top: 1px;
+  position: relative;
+  width: 71px;
+}
+
+.question3 .logo-container {
+  height: 60px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 71px;
+}
+
+.question3 .logo {
+  height: 60px;
+  left: 2px;
+  position: absolute;
+  top: 0;
+  width: 60px;
+}
+
+.question3 .logo-1 {
+  align-items: flex-start;
+  border: 1px none;
+  display: flex;
+  height: 30px;
+  left: 0;
+  padding: 0 5px;
+  position: absolute;
+  top: 13px;
+  width: 71px;
+}
+
+.question3 .line-container {
+  height: 30px;
+  position: relative;
+  width: 55px;
+}
+
+.question3 .line-1 {
+  height: 20px;
+  left: 0;
+  position: absolute;
+  top: 10px;
+  width: 11px;
+}
+
+.question3 .line-8 {
+  height: 20px;
+  left: 44px;
+  position: absolute;
+  top: 10px;
+  width: 11px;
+}
+
+.question3 .line-2 {
+  height: 20px;
+  left: 6px;
+  position: absolute;
+  top: 10px;
+  width: 11px;
+}
+
+.question3 .line-7 {
+  height: 20px;
+  left: 38px;
+  position: absolute;
+  top: 10px;
+  width: 11px;
+}
+
+.question3 .line-3 {
+  height: 25px;
+  left: 12px;
+  position: absolute;
+  top: 5px;
+  width: 11px;
+}
+
+.question3 .line-6 {
+  height: 25px;
+  left: 32px;
+  position: absolute;
+  top: 5px;
+  width: 11px;
+}
+
+.question3 .line-4 {
+  height: 30px;
+  left: 18px;
+  position: absolute;
+  top: 0;
+  width: 11px;
+}
+
+.question3 .line-5 {
+  height: 30px;
+  left: 25px;
+  position: absolute;
+  top: 0;
+  width: 11px;
+}
+
+.question3 .findyournewgroove-container {
+  align-self: flex-end;
+  height: 99px;
+  margin-left: 22px;
+  position: relative;
+  width: 248px;
+}
+
+.question3 .find-your-new-groove {
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+  width: 248px;
+}
+
+.question3 .navbar-link-container {
+  height: 99px;
+  margin-left: 309px;
+  position: relative;
+  width: 478px;
+}
+
+.question3 .navbar-link-about-us {
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+  width: 184px;
+}
+
+.question3 .navbar-link-playlists {
+  left: 108px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+  width: 152px;
+}
+
+.question3 .navbar-link-support {
+  left: 217px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+  width: 152px;
+}
+
+.question3 .navbar-link-place {
+  cursor: pointer;
+  left: 326px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+  width: 152px;
+}
+
+.question3 .overlap-group5 {
+  height: 502px;
+  margin-right: -111px;
+  margin-top: 185px;
+  position: relative;
+  width: 1299px;
+}
+
+.question3 .find-your-new-groove-1 {
+  -webkit-text-stroke: 1px var(--black);
+  left: 448px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-shadow: 0px 4px 4px #00000040;
+  top: 0;
+  width: 848px;
+}
+
+.question3 .x0306-right-now-would-you-rather {
+  left: 451px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 136px;
+  width: 848px;
+}
+
+.question3 .button {
+  align-items: flex-start;
+  cursor: pointer;
+  display: flex;
+  height: 218px;
+  left: 419px;
+  min-width: 306px;
+  position: absolute;
+  top: 205px;
+}
+
+.question3 .overlap-group2 {
+  height: 218px;
+  position: relative;
+  width: 304px;
+}
+
+.question3 .rectangle-1 {
+  background-color: var(--blumine);
+  border: 1px none;
+  border-radius: 10px;
+  height: 218px;
+  left: 34px;
+  position: absolute;
+  top: 0;
+  width: 236px;
+}
+
+.question3 .a-read-a-book {
+  height: 114px;
+  left: 0;
+  letter-spacing: -0.46px;
+  line-height: 36px;
+  position: absolute;
+  text-align: center;
+  top: 44px;
+  width: 304px;
+}
+
+.question3 .button-1 {
+  align-items: flex-start;
+  cursor: pointer;
+  display: flex;
+  height: 218px;
+  left: 775px;
+  min-width: 234px;
+  position: absolute;
+  top: 205px;
+}
+
+.question3 .overlap-group3 {
+  height: 218px;
+  position: relative;
+  width: 232px;
+}
+
+.question3 .rectangle-1-1 {
+  background-color: var(--blumine);
+  border: 1px none;
+  border-radius: 10px;
+  height: 218px;
+  left: 2px;
+  position: absolute;
+  top: 0;
+  width: 230px;
+}
+
+.question3 .b-do-a-high-energy-workout {
+  height: 97px;
+  left: 0;
+  line-height: 24px;
+  position: absolute;
+  text-align: center;
+  top: 49px;
+  width: 232px;
+}
+
+.question3 .span0-1 {
+  letter-spacing: -0.53px;
+  line-height: 36px;
+  text-decoration: line-through;
+}
+
+.question3 .span1 {
+  letter-spacing: 0;
+}
+
+.question3 .alireza-attari-sb-ia {
+  height: 500px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 2px;
+  width: 467px;
+}
+
+.question3 .cm523-at-boston-university-2022 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-right: -220px;
+  margin-top: 193px;
+  min-height: 107px;
+  width: 848px;
+}
